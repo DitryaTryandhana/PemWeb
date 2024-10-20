@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BELIFT LAB</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- loader -->
+     <div class="bg-loader">
+        <div class=" loader"></div>
+     </div>
+
+    <!-- header -->
+     <div class="medsos">
+        <div class="container">
+            <ul>
+                <li><a href="https://www.instagram.com/beliftlab?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa-brands fa-square-instagram"></i></a></li>
+                <li><a href="https://youtube.com/@hybelabels?si=XfUvxeWyuHwT3XQF"><i class="fa-brands fa-youtube"></i></a></li>
+                <li><a href="https://x.com/BELIFTLAB"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+            </ul>
+        </div>
+     </div>
+     <header>
+        <div class="container">
+            <h1><a href="index.html">BE:LIFT LAB</a></h1>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li><a href="enhypen.html">ENHYPEN</a></li>
+                <li class="active"><a href="illit.html">ILLIT</a></li>
+            </ul>
+     </header>
+
+    <!-- banner about -->
+     <section class="banner_illit">
+     </section>
+
+    <!-- ILLIT -->
+     <section class="illit">
+        <div class="container">
+            <h3>ILLIT</h3>
+            <p><strong>ILLIT</strong> (아일릿; also stylized as :ll:+) is a five-member 
+                multinational girl group under Belift Lab. Formed through 
+                the JTBC reality show R U Next? and originally as six, 
+                they made their debut on March 25, 2024 with the mini 
+                album Super Real Me. Their group name is derived 
+                from the phrase "I Will Be It". It is a 
+                group name that combines the autonomous and proactive 
+                will (I will) with the pronoun (It) that signifies 
+                something special. Depending on the verb that fits 
+                between the two words, it can become anything.</p>
+            <p>ILLIT is a South Korean girl group formed by Belift Lab, 
+                comprising five talented members: <strong>Yunah, Minju, Moka, 
+                Wonhee, and Iroha</strong>. The group made their official debut 
+                on March 25, 2024, with their first mini-album, "Super 
+                Real Me," and the title track "Magnetic."</p>
+            <p>ILLIT was formed through the survival reality show "R U Next?", 
+                a joint project between HYBE Labels and JTBC. The show aimed 
+                to find the most promising female trainees to form a new girl 
+                group. The members of ILLIT were selected based on their exceptional 
+                vocal, dance, and performance skills. ILLIT was formed through the 
+                survival reality show "R U Next?", a joint project between HYBE 
+                Labels and JTBC. The show aimed to find the most promising female 
+                trainees to form a new girl group. The members of ILLIT were selected 
+                based on their exceptional vocal, dance, and performance skills.</p>
+            <p>ILLIT's music is characterized by catchy melodies, upbeat rhythms, and 
+                heartfelt lyrics. Their debut song, "Magnetic," showcased a refreshing 
+                and energetic sound that quickly gained popularity among K-pop fans. 
+                ILLIT has emerged as a promising new group in the K-pop industry, 
+                capturing the hearts of fans with their talent, charm, and hard work. 
+                With their bright future ahead, ILLIT is sure to continue making waves 
+                in the global music scene.</p>
+        </div>
+     </section>
+
+     <!-- biodata -->
+    <section class="member_illit">
+        <div class="container">
+            <h3>ILLIT MEMBER</h3>
+            <!-- yunah -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td rowspan="8"><img src="img/yunah.jpeg" class="photo"></td>
+                    <td><strong>Stage Name</strong></td>
+                    <td>: Yunah (윤아)</td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Noh Yunah (노윤아)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Leader</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: January 15th, 2004</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Capricorn</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: A</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ENFP</td>
+                </tr>
+            </table>
+            <!-- minju -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td>Stage Name</td>
+                    <td>: Minju (민주)</td>
+                    <td rowspan="8"><img src="img/minju.jpeg" class="photo"></td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Park Minju (박민주)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Main Vocalist</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: May 11th, 2004</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Taurus</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: O</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ISTP</td>
+                </tr>
+            </table>
+            <!-- moka -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td rowspan="8"><img src="img/moka.jpeg" class="photo"></td>
+                    <td><strong>Stage Name</strong></td>
+                    <td>: Moka (모카)</td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Sakai Moka (さかい もか)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Main Dancer</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: October 8th, 2004</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Japanese</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Libra</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: B</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ISFP</td>
+                </tr>
+            </table>
+            <!-- wonhee -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td>Stage Name</td>
+                    <td>: Wonhee (원희)</td>
+                    <td rowspan="8"><img src="img/wonhee.jpeg" class="photo"></td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Lee Wonhee (이원희)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Lead Vocalist, Center</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: June 26th, 2007</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Cancer</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: A</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ISFP</td>
+                </tr>
+            </table>
+            <!-- iroha -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td rowspan="8"><img src="img/iroha.jpeg" class="photo"></td>
+                    <td><strong>Stage Name</strong></td>
+                    <td>: Iroha (이로하)</td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Hokazono Iroha (外園 いろは)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Maknae</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: February 4th, 2008</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Japanese</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Aquarius</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: A</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: INFJ</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+     <!-- footer -->
+    <footer>
+        <div class=" container">
+            <small>Copyright &copy; 2024 - Belift Label. All Right Reserved</small>
+        </div>
+    </footer>
+
+    <script>
+        $(document).ready(function(){
+            $(".bg-loader").hide();
+        })
+    </script>
+
+</body>
+</html>
