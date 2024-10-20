@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BELIFT LAB</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- loader -->
+     <div class="bg-loader">
+        <div class=" loader"></div>
+     </div>
+
+    <!-- header -->
+     <div class="medsos">
+        <div class="container">
+            <ul>
+                <li><a href="https://www.instagram.com/beliftlab?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa-brands fa-square-instagram"></i></a></li>
+                <li><a href="https://youtube.com/@hybelabels?si=XfUvxeWyuHwT3XQF"><i class="fa-brands fa-youtube"></i></a></li>
+                <li><a href="https://x.com/BELIFTLAB"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+            </ul>
+        </div>
+     </div>
+     <header>
+        <div class="container">
+            <h1><a href="index.html">BE:LIFT LAB</a></h1>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li class="active"><a href="enhypen.html">ENHYPEN</a></li>
+                <li><a href="illit.html">ILLIT</a></li>
+            </ul>
+     </header>
+
+    <!-- banner about -->
+     <section class="banner_enhypen">
+     </section>
+
+    <!-- ENHYPEN -->
+    <section class="enhypen">
+        <div class="container">
+            <h3>ENHYPEN</h3>
+            <p><strong>ENHYPEN</strong> (엔하이픈; also stylized as EN-) is a seven-member 
+                multinational boy group under Belift Lab. Formed through 
+                the reality show I-LAND, they debuted on November 30, 
+                2020 with their first mini album Border : Day One.
+                The name of the group was described as "just like hyphens connect 
+                different words to make new meanings, the members will connect, 
+                discover each other, and grow together"</p>
+            <p>Enhypen, a product of the competitive survival show I-LAND, is a 
+                South Korean boy group that has captured the hearts of fans worldwide. 
+                Their music, a blend of various genres, showcases their versatility and talent. 
+                The group consists of seven members: <strong>Heeseung, Jay, Jake, Sunghoon, Sunoo, 
+                Jungwon, and Ni-ki</strong>. Each member brings a unique charm and skill set to the 
+                group, contributing to their overall dynamic and appeal.</p>
+            <p>Enhypen's music is characterized by a contemporary and edgy sound, 
+                often incorporating elements of hip-hop, R&B, and electronic music. 
+                Their songs, which frequently explore themes of youth, growth, and 
+                self-discovery, resonate deeply with their fans. With their powerful 
+                vocals, intricate choreography, and visually stunning music videos, 
+                Enhypen has established themselves as one of the leading fourth-generation 
+                K-pop groups.</p>
+            <p>Enhypen has formed a strong bond with their fans, known as <strong>ENGENE</strong>. 
+                The group is known for their genuine interactions with fans through various 
+                platforms, creating a sense of community and belonging. Their dedication to 
+                their craft and their fans has solidified their status as one of the most 
+                beloved groups in the K-pop industry.</p>
+        </div>
+     </section>
+    
+    <!-- biodata -->
+    <section class="member_enhypen">
+        <div class="container">
+            <h3>ENHYPEN MEMBER</h3>
+            <!-- jungwoon -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td rowspan="8"><img src="img/jungwon.jpeg" class="photo"></td>
+                    <td><strong>Stage Name</strong></td>
+                    <td>: Jungwon(정원)</td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Yang Jung Won(양정원)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Leader</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: February 9th, 2004</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Aquarius</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: AB</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ISTJ</td>
+                </tr>
+            </table>
+            <!-- heesung -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td>Stage Name</td>
+                    <td>: Heeseung (희승)</td>
+                    <td rowspan="8"><img src="img/heesung.jpeg" class="photo"></td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Lee Hee Seung (이희승)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Main Vocalist, Center</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: October 15th, 2001</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Libra</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: A</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ESTP</td>
+                </tr>
+            </table>
+            <!-- jay -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td rowspan="8"><img src="img/jay.jpeg" class="photo"></td>
+                    <td><strong>Stage Name</strong></td>
+                    <td>: Jay (제이)</td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Jay Park</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Main Rapper, Dancer</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: April 20th, 2002</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean-American</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Taurus</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: B</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: INTP</td>
+                </tr>
+            </table>
+            <!-- jake -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td>Stage Name</td>
+                    <td>: Jake (제이크)</td>
+                    <td rowspan="8"><img src="img/jake.jpeg" class="photo"></td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Jake Sim (제이크 심)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Vocalist, Dancer</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: November 15th, 2002</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean-Australian</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Scorpio</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: O</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ISTJ</td>
+                </tr>
+            </table>
+            <!-- sunghoon -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td rowspan="8"><img src="img/sunghoon.jpeg" class="photo"></td>
+                    <td><strong>Stage Name</strong></td>
+                    <td>: Sunghoon (성훈)</td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Park Sung Hoon (박성훈)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Vocalist, Dancer, Visual</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: December 8th, 2002</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Sagittarius</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: O</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ISTJ</td>
+                </tr>
+            </table>
+            <!-- sunoo -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td>Stage Name</td>
+                    <td>: Sunoo (선우)</td>
+                    <td rowspan="8"><img src="img/sunoo.jpeg" class="photo"></td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Kim Seon Woo (김선우)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Lead Vocalist, Lead Dancer</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: June 24th, 2003</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Korean</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Cancer</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: O</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ISTJ-A</td>
+                </tr>
+            </table>
+            <!-- niki -->
+            <table class="table">
+                <hr>
+                <tr>
+                    <td rowspan="8"><img src="img/niki.jpeg" class="photo"></td>
+                    <td><strong>Stage Name</strong></td>
+                    <td>: Ni-ki (니키)</td>
+                </tr>
+                <tr>
+                    <td>Birth Name</td>
+                    <td>: Nishimura Riki (西村 力)</td>
+                </tr>
+                <tr>
+                    <td>Position</td>
+                    <td>: Main Dancer, Maknae</td>
+                </tr>
+                <tr>
+                    <td>Birthday</td>
+                    <td>: December 9th, 2005</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>: Japanese</td>
+                </tr>
+                <tr>
+                    <td>Zodiac Sign</td>
+                    <td>: Sagittarius</td>
+                </tr>
+                <tr>
+                    <td>Blood Type</td>
+                    <td>: B</td>
+                </tr>
+                <tr>
+                    <td>MBTI Type</td>
+                    <td>: ENTJ</td>
+                </tr>
+            </table>
+
+        </div>
+    </section>
+
+     <!-- footer -->
+    <footer>
+        <div class=" container">
+            <small>Copyright &copy; 2024 - Belift Label. All Right Reserved</small>
+        </div>
+    </footer>
+
+    <script>
+        $(document).ready(function(){
+            $(".bg-loader").hide();
+        })
+    </script>
+
+</body>
+</html>
