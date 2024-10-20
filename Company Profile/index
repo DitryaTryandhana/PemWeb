@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BELIFT LAB</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- loader -->
+     <div class="bg-loader">
+        <div class=" loader"></div>
+     </div>
+
+    <!-- header -->
+     <div class="medsos">
+        <div class="container">
+            <ul>
+                <li><a href="https://www.instagram.com/beliftlab?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa-brands fa-square-instagram"></i></a></li>
+                <li><a href="https://youtube.com/@hybelabels?si=XfUvxeWyuHwT3XQF"><i class="fa-brands fa-youtube"></i></a></li>
+                <li><a href="https://x.com/BELIFTLAB"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+            </ul>
+        </div>
+     </div>
+     <header>
+        <div class="container">
+            <h1><a href="index.html">BE:LIFT LAB</a></h1>
+            <ul>
+                <li class="active"><a href="index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li><a href="enhypen.html">ENHYPEN</a></li>
+                <li><a href="illit.html">ILLIT</a></li>
+            </ul>
+     </header>
+
+    <!-- banner -->
+     <section class="banner">
+        <h2>WELCOME TO BELIFT LAB</h2>
+     </section>
+
+    <!-- about -->
+     <section class=" about">
+        <div class="container">
+            <h3>ABOUT</h3>
+            <p><strong>Belift Lab</strong>, a collaborative venture between CJ ENM and HYBE Corporation, 
+                is making waves in the K-pop industry. By fusing Western music sensibilities 
+                with the rich traditions of Korean pop, Belift Lab aims to cultivate artists 
+                who can resonate with a global audience. With groups like ENHYPEN and ILLIT under 
+                their wing, the agency has already showcased its ability to produce talented and 
+                versatile acts. HYBE's recent acquisition of Belift Lab further solidifies the 
+                agency's position as a major player in the global music scene, promising exciting 
+                new projects and opportunities for its artists.</p>
+        </div>
+     </section>
+
+    <!-- ENHYPEN -->
+     <section class="enhypen">
+        <div class="container">
+            <h3>ENHYPEN</h3>
+            <p><strong>ENHYPEN</strong> is the first boyband created by BELIFT LAB, consisting of seven multinational members JUNGWON, 
+                HEESEUNG, JAY, JAKE, SUNGHOON, SUNOO and NI-KI. They are the finalists of global music competition show 
+                I-LAND, which finished airing in September 2020. The members have already shown infinite possibilities and 
+                growth not only as individuals, but also as a team. Similar to the hyphen(-) that connects one word to another, 
+                ENHYPEN means that seven different boys connect to discover one another and grow together. It also indicates 
+                their ambitious plan to connect people and the world through their music.</p>
+        </div>
+     </section>
+
+     <!-- ILLIT -->
+     <section class="illit">
+        <div class="container">
+            <h3>ILLIT</h3>
+            <p><strong>ILLIT</strong> (아일릿; also stylized as :ll:+) is a five-member 
+                multinational girl group under Belift Lab. Formed through 
+                the JTBC reality show R U Next? and originally as six, 
+                they made their debut on March 25, 2024 with the mini 
+                album Super Real Me. Their group name is derived 
+                from the phrase "I Will Be It". It is a 
+                group name that combines the autonomous and proactive 
+                will (I will) with the pronoun (It) that signifies 
+                something special. Depending on the verb that fits 
+                between the two words, it can become anything.</p>
+        </div>
+     </section>
+     <!-- footer -->
+    <footer>
+        <div class=" container">
+            <small>Copyright &copy; 2024 - Belift Label. All Right Reserved</small>
+        </div>
+    </footer>
+
+    <script>
+        $(document).ready(function(){
+            $(".bg-loader").hide();
+        })
+    </script>
+
+</body>
+</html>
