@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BELIFT LAB</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- loader -->
+     <div class="bg-loader">
+        <div class=" loader"></div>
+     </div>
+
+    <!-- header -->
+     <div class="medsos">
+        <div class="container">
+            <ul>
+                <li><a href="https://www.instagram.com/beliftlab?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa-brands fa-square-instagram"></i></a></li>
+                <li><a href="https://youtube.com/@hybelabels?si=XfUvxeWyuHwT3XQF"><i class="fa-brands fa-youtube"></i></a></li>
+                <li><a href="https://x.com/BELIFTLAB"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+            </ul>
+        </div>
+     </div>
+     <header>
+        <div class="container">
+            <h1><a href="index.html">BE:LIFT LAB</a></h1>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li class="active"><a href="about.html">ABOUT</a></li>
+                <li><a href="enhypen.html">ENHYPEN</a></li>
+                <li><a href="illit.html">ILLIT</a></li>
+            </ul>
+     </header>
+
+    <!-- banner about -->
+     <section class="banner_about">
+     </section>
+
+    <!-- about -->
+     <section class=" about">
+        <div class="container">
+            <h3>ABOUT</h3>
+            <p> <strong>BELIFT LAB</strong> (빌리프랩, also known as BE:LIFT) is a South 
+                Korean media company. It was founded as a joint venture 
+                between CJ ENM and HYBE in 2018 where CJ ENM held the 
+                controlling stake at around 52%.On August 10, 2023, 
+                it was announced that HYBE signed a deal to for 
+                CJ ENM's entire 51.5% stake of Belift Lab, thereby 
+                gaining complete ownership of the label.</p>
+            <p> <strong>BELIFT LAB</strong> is a dynamic entertainment company founded 
+                on September 17, 2018, as a joint venture between CJ ENM 
+                and HYBE Corporation. The agency is dedicated to discovering 
+                and nurturing new talent in the K-pop industry. BELIFT LAB is 
+                known for its innovative approach, combining expertise from 
+                various fields such as media, branding, education, and IT to 
+                create a sustainable future for K-pop</p>
+            <p>The agency's mission is to provide fans with the best possible 
+                experience while maintaining a healthy relationship with their 
+                artists. <strong>BELIFT LAB</strong> aims to expand artist IP beyond traditional 
+                boundaries, creating a new paradigm for K-pop and redefining 
+                entertainment. Their roster includes popular groups like <strong>ENHYPEN</strong> 
+                and the newly debuted <strong>ILLIT</strong>. <strong>BELIFT LAB</strong> is best known for forming 
+                and managing the boy group <strong>ENHYPEN</strong>, 
+                which debuted in 2020 through the survival reality show "I-LAND." 
+                The group has since gained significant popularity both domestically and 
+                internationally.</p>
+            <p>The agency aims to create innovative content and artist management strategies 
+                by combining the expertise of its parent companies in media production and 
+                K-pop artist development. <strong>BELIFT LAB</strong> is committed to innovation and is always on the lookout 
+                for passionate individuals to join their team, contributing to the 
+                creation of captivating music content and IP-based businesses that 
+                resonate with fans worldwide</p>
+        </div>
+     </section>
+
+     <!-- footer -->
+    <footer>
+        <div class=" container">
+            <small>Copyright &copy; 2024 - Belift Label. All Right Reserved</small>
+        </div>
+    </footer>
+
+    <script>
+        $(document).ready(function(){
+            $(".bg-loader").hide();
+        })
+    </script>
+
+</body>
+</html>
