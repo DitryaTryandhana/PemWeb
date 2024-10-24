@@ -30,6 +30,7 @@ header h1 {
     float: left;
     padding: 15px 0;
     color: #ff8a33;
+    animation: fadeIn 2s ease-out;
 }
 header {
     background-color: #f9f9f9;
@@ -93,11 +94,23 @@ section h3 {
     margin-bottom: 20px;
 }
 .about {
+    transition: transform 0.3s ease;
+}
+.about:hover {
+    transform: translateY(-10px);
+}
+.about {
     background-color: black;
     padding-bottom: 100px;
 }
 .enhypen {
     background-color: #f9f9f9;
+}
+.enhypen {
+    transition: transform 0.3s ease;
+}
+.enhypen:hover {
+    transform: translateY(-10px);
 }
 .enhypen p {
     color: black;
@@ -107,6 +120,12 @@ section h3 {
 }
 .illit {
     background-color: black;
+}
+.illit {
+    transition: transform 0.3s ease;
+}
+.illit:hover {
+    transform: translateY(-10px);
 }
 .illit p {
     color: white;
@@ -169,7 +188,7 @@ footer {
     align-items: center;
 }
 .member_enhypen {
-    background-color: #f9f9f9;
+    background-color: #f9f9f9f1;
 }
 .member_enhypen table{
     display: flex;
@@ -177,6 +196,12 @@ footer {
     justify-content: center;
     margin-bottom: 20px;
     margin-top: 20px;
+}
+.member_enhypen {
+    transition: transform 0.3s ease;
+}
+.member_enhypen:hover {
+    transform: translateY(-10px);
 }
 .member_enhypen table tr td:first-child {
     font-weight: bold;
@@ -208,12 +233,60 @@ footer {
     margin-bottom: 20px;
     margin-top: 20px;
 }
+.member_iliit {
+    transition: transform 0.3s ease;
+}
+.member_illit:hover {
+    transform: translateY(-10px);
 .member_illit table tr td:first-child {
     font-weight: bold;
+}
 }
 .member_illit table tr td {
     padding: .25rem;
 }
 .photo {
     border-radius: 1rem;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}  
+
+.fade-in {
+    animation: fadeIn 1.5s ease-out;
+}
+
+.slide-in {
+    animation: slideIn 1.5s ease-out;
+}
+
+.fade-up {
+    animation: fadeUp 1.8s ease-out;
 }
